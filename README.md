@@ -19,3 +19,7 @@ La actividad no tendrá calificación numérica.
 La actividad se calificará como “entregada” o “no entregada”.  
 
 Solo se permite una entrega por grupo, sin posibilidad de reevaluación.  
+
+NOTA: Luego de responder las consignas, debe cargar el archivo en la plataforma haciendo clic en el botón “Cargar” al pie de la pantalla.  
+
+Grabar el archivo con el nombre: ** Nro_Grupo _ddmmaaaa_Funcionamientoobjetos **
